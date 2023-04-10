@@ -1,0 +1,8 @@
+127.0.0.1 - - [06/Apr/2023:20:21:33 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [06/Apr/2023:20:21:34 +0530] "GET /project_3/ HTTP/1.1" 200 752
+0:0:0:0:0:0:0:1 - - [06/Apr/2023:20:21:36 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 200 3818
+0:0:0:0:0:0:0:1 - - [06/Apr/2023:20:21:36 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 742
+0:0:0:0:0:0:0:1 - - [06/Apr/2023:20:21:41 +0530] "GET /project_3/LoginCtl HTTP/1.1" 200 7192
+0:0:0:0:0:0:0:1 - - [06/Apr/2023:20:22:05 +0530] "GET /project_3/UserRegistrationCtl HTTP/1.1" 200 11702
+0:0:0:0:0:0:0:1 - - [06/Apr/2023:20:22:05 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 742
+0:0:0:0:0:0:0:1 - - [06/Apr/2023:20:22:05 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 742
